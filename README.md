@@ -9,11 +9,6 @@
 
 - [Features](#features)
 - [Installation](#installation)
-- [Gameplay](#gameplay)
-- [Controls](#controls)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **Dynamic Background:** A scrolling background to enhance the visual experience.
@@ -31,3 +26,4 @@ To play **Shooting Star**, follow these steps:
    ```bash
    git clone https://github.com/yourusername/shooting-star.git
    cd shooting-star
+   run main.py
